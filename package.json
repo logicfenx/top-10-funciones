@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/top-10-funciones",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a top-10-funciones",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/top-10-funciones.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/top-10-funciones-tienda-virtual/"
+    },
+    "homepage": "https://bitcu.co/top-10-funciones-tienda-virtual/"
+}
